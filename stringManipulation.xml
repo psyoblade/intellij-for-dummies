@@ -1,9 +1,5 @@
 <application>
   <component name="StringManipulationState">
-    <option name="sortSettings">
-      <SortSettings>
-        <option name="collatorLanguageTag" value="ko_KR" />
-      </SortSettings>
-    </option>
+    <option name="version" value="2" />
   </component>
 </application>
